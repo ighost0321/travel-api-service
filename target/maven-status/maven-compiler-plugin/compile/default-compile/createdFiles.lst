@@ -1,0 +1,11 @@
+com/example/travelapi/TravelInsuranceApiApplication.class
+com/example/travelapi/model/FeatureCategory.class
+com/example/travelapi/config/WebConfig.class
+com/example/travelapi/controller/FeatureController.class
+com/example/travelapi/dto/AdminMenuResponse.class
+com/example/travelapi/config/OpenApiConfig.class
+com/example/travelapi/dto/FeatureRequest.class
+com/example/travelapi/service/FeatureService.class
+com/example/travelapi/dto/MenuItem.class
+com/example/travelapi/config/SecurityConfig.class
+com/example/travelapi/model/Feature.class

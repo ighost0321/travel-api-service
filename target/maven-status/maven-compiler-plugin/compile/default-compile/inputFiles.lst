@@ -1,0 +1,11 @@
+/Users/ighost0321/Projects/travel-api-service/src/main/java/com/example/travelapi/TravelInsuranceApiApplication.java
+/Users/ighost0321/Projects/travel-api-service/src/main/java/com/example/travelapi/config/SecurityConfig.java
+/Users/ighost0321/Projects/travel-api-service/src/main/java/com/example/travelapi/model/Feature.java
+/Users/ighost0321/Projects/travel-api-service/src/main/java/com/example/travelapi/dto/FeatureRequest.java
+/Users/ighost0321/Projects/travel-api-service/src/main/java/com/example/travelapi/dto/AdminMenuResponse.java
+/Users/ighost0321/Projects/travel-api-service/src/main/java/com/example/travelapi/config/WebConfig.java
+/Users/ighost0321/Projects/travel-api-service/src/main/java/com/example/travelapi/config/OpenApiConfig.java
+/Users/ighost0321/Projects/travel-api-service/src/main/java/com/example/travelapi/service/FeatureService.java
+/Users/ighost0321/Projects/travel-api-service/src/main/java/com/example/travelapi/dto/MenuItem.java
+/Users/ighost0321/Projects/travel-api-service/src/main/java/com/example/travelapi/controller/FeatureController.java
+/Users/ighost0321/Projects/travel-api-service/src/main/java/com/example/travelapi/model/FeatureCategory.java
