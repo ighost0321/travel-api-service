@@ -1,6 +1,15 @@
 spring:
   application:
     name: travel-insurance-api
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          # Keycloak 的 JWT Issuer URI (通常是 Keycloak Base URL + /realms/ + Realm Name)
+          # 請確認您的 Keycloak 實例和 Realm 名稱
+          issuer-uri: http://localhost:8080/realms/traveling-realm
+          # jwk-set-uri Spring Security 會自動從 issuer-uri 派生，但您也可以明確設定
+          # jwk-set-uri: http://localhost:8080/realms/travel-insurance/protocol/openid-connect/certs
 server:
   port: 9090
 app:
